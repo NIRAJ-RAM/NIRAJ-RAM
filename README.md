@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Computer Engineering Student @ Kathmandu University<br>🔭 Passionate about building practical software solutions and learning how technology shapes the real world<br>👯 Open to collaborating on student projects, open-source contributions, and innovative ideas<br>🤝 Looking for guidance and mentorship in advanced programming and system design<br>🌱 Currently learning Data Structures & Algorithms, Web Development, and Machine Learning<br>💬 Ask me about C++, JavaScript, databases, and core computer science concepts<br>⚡ Fun fact: I love breaking complex problems into simple, logical solutions 🚀
+👨‍💻 Computer Engineering Student @ Kathmandu University<br>🔭 Passionate about building practical software and learning how technology shapes the world<br>👯 Open to collaborating on student projects, open-source contributions, and innovative ideas<br>🤝 Looking for guidance and mentorship in advanced programming and system design<br>🌱 Currently learning Data Structures & Algorithms, Web Development, and Machine Learning<br>💬 Ask me about C++, JavaScript, databases, and core computer science concepts<br>⚡ Fun fact: I love breaking complex problems into simple, logical solutions 🚀
 
 
 ## 🌐 Socials:
